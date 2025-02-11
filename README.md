@@ -6,7 +6,11 @@
 
 ## 🚀 About Me
 
-Software Engineer specializing in Web Development, currently enrolled in a one-year full stack web development course exploring and implementing modern web technologies, including HTML, CSS, JavaScript, and the MERN stack. Proficient in responsive design frameworks like Bootstrap and Tailwind. I bring a blend of development skills and QA expertise, enabling me to create dynamic, user-friendly, and scalable web applications. A dedicated problem-solver and resourceful "Googler".
+I am a Software Engineer specializing in Web Development and Quality Assurance (QA). Currently, I am enrolled in a one-year full-stack web development course, exploring and implementing modern web technologies, including HTML, CSS, JavaScript, and the MERN stack. I am proficient in responsive design frameworks like Bootstrap and Tailwind, allowing me to create dynamic, user-friendly, and scalable web applications.
+
+With experience in QA engineering, I bring a strong understanding of software testing methodologies, including manual and automated testing, bug tracking, and test case execution. My ability to blend development skills with QA expertise ensures the delivery of high-quality applications.
+
+A dedicated problem-solver and resourceful "Googler," I am always eager to learn new technologies and enhance my skills.
 
 ## 🛠️ Skills & Technologies
 
@@ -22,9 +26,18 @@ Software Engineer specializing in Web Development, currently enrolled in a one-y
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🛠 Quality Assurance (QA)
+- ✅ Manual Testing  
+- ✅ Functional Testing  
+- ✅ UI/UX Testing  
+- ✅ Bug Reporting & Tracking  
+- ✅ Test Case Design & Execution
+
+
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
